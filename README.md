@@ -1,2 +1,2 @@
 # ModalView
-ModalView with Bootstrap
+Amazing ModalView with Bootstrap
